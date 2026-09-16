@@ -30,3 +30,5 @@ with DAG(
     finish = EmptyOperator(task_id="finish")
 
     start >> [task_a, task_b] >> finish
+
+BROKEN_FOR_Q3 = (
