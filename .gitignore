@@ -1,0 +1,6 @@
+logs/
+output/
+data/
+__pycache__/
+*.pyc
+config/airflow.cfg
